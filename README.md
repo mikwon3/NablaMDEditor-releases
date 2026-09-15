@@ -44,11 +44,13 @@ A Markdown editor for academic writing. It keeps equations and cross-references 
 - **오프라인 AI** — 앱에 담긴 llama.cpp 가 이 컴퓨터에서 GGUF 모델을 돌립니다. 인터넷도 API 키도 필요 없습니다.
 - **원문은 Markdown 한 파일** — 앱 전용 형식이 없습니다.
 
-## 이용 조건 · Terms
+## 라이선스 · License
 
-누구나 무료로 쓸 수 있습니다. 나눠 줄 때는 이 저장소 링크를 알려 주십시오.
+NablaMDEditor 는 **Apache License 2.0** 으로 배포합니다([LICENSE](LICENSE)). 누구나 무료로 쓰고 나눌 수 있습니다.
+나눠 줄 때는 이 저장소 링크를 알려 주십시오.
 
-Free for anyone to use. When sharing, please point people to this repository.
+NablaMDEditor is distributed under the **Apache License 2.0** ([LICENSE](LICENSE)). Free for anyone to use and share.
+When sharing, please point people to this repository.
 
 ## 제3자 구성요소
 

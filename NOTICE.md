@@ -1,3 +1,8 @@
+NablaMDEditor
+Copyright 2026 경상국립대학교 (Gyeongsang National University)
+
+Apache License 2.0 에 따라 배포합니다. 전문은 [LICENSE](LICENSE) 에 있습니다.
+
 # 제3자 구성요소 · Third-party components
 
 NablaMDEditor 설치 파일에 함께 들어 있는 남의 것들과 그 라이선스입니다.
