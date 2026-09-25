@@ -1,5 +1,5 @@
 NablaMDEditor
-Copyright 2026 경상국립대학교 (Gyeongsang National University)
+Copyright 2026 Minho Kwon (@mikwon3, mikwon@me.com)
 
 Apache License 2.0 에 따라 배포합니다. 전문은 [LICENSE](LICENSE) 에 있습니다.
 

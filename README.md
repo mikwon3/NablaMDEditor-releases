@@ -60,4 +60,4 @@ When sharing, please point people to this repository.
 설치 파일에는 Pandoc(GPL)·Python(PSF)·llama.cpp(MIT)·Pretendard·D2Coding 과 영문 글꼴 10벌(모두 SIL OFL) 등이 함께 들어 있습니다.
 각 라이선스와 소스 위치는 [NOTICE.md](NOTICE.md) 와 [licenses/](licenses/) 에 있습니다.
 
-© 2026 경상국립대학교
+© 2026 Minho Kwon (@mikwon3 · mikwon@me.com)
