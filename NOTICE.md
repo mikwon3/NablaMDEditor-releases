@@ -1,5 +1,5 @@
 NablaMDEditor
-Copyright 2026 경상국립대학교 (Gyeongsang National University)
+Copyright 2026 Minho Kwon (@mikwon3, mikwon@me.com)
 
 Apache License 2.0 에 따라 배포합니다. 전문은 [LICENSE](LICENSE) 에 있습니다.
 
@@ -25,6 +25,19 @@ NablaMDEditor 설치 파일에 함께 들어 있는 남의 것들과 그 라이�
 |---|---|---|---|
 | Pretendard | 1.309 (Kil Hyung-jin) | SIL OFL 1.1 | [licenses/Pretendard-OFL.txt](licenses/Pretendard-OFL.txt) |
 | D2Coding | 1.3.3 (NAVER Corporation) | SIL OFL 1.1 | [licenses/D2Coding-OFL.txt](licenses/D2Coding-OFL.txt) |
+| Inter | Fontsource 5.3.0 라틴 (The Inter Project Authors) | SIL OFL 1.1 | [licenses/inter-OFL.txt](licenses/inter-OFL.txt) |
+| Source Sans 3 | Fontsource 5.3.0 라틴 (Adobe) | SIL OFL 1.1 | [licenses/source-sans-3-OFL.txt](licenses/source-sans-3-OFL.txt) |
+| Source Serif 4 | Fontsource 5.3.0 라틴 (Adobe) | SIL OFL 1.1 | [licenses/source-serif-4-OFL.txt](licenses/source-serif-4-OFL.txt) |
+| IBM Plex Sans | Fontsource 5.3.0 라틴 (IBM Corp.) | SIL OFL 1.1 | [licenses/ibm-plex-sans-OFL.txt](licenses/ibm-plex-sans-OFL.txt) |
+| IBM Plex Serif | Fontsource 5.3.0 라틴 (IBM Corp.) | SIL OFL 1.1 | [licenses/ibm-plex-serif-OFL.txt](licenses/ibm-plex-serif-OFL.txt) |
+| IBM Plex Mono | Fontsource 5.3.0 라틴 (IBM Corp.) | SIL OFL 1.1 | [licenses/ibm-plex-mono-OFL.txt](licenses/ibm-plex-mono-OFL.txt) |
+| STIX Two Text | Fontsource 5.3.0 라틴 (The STIX Fonts Project Authors) | SIL OFL 1.1 | [licenses/stix-two-text-OFL.txt](licenses/stix-two-text-OFL.txt) |
+| STIX Two Math | Fontsource 5.3.0 라틴 (The STIX Fonts Project Authors) | SIL OFL 1.1 | [licenses/stix-two-math-OFL.txt](licenses/stix-two-math-OFL.txt) |
+| JetBrains Mono | Fontsource 5.3.0 라틴 (The JetBrains Mono Project Authors) | SIL OFL 1.1 | [licenses/jetbrains-mono-OFL.txt](licenses/jetbrains-mono-OFL.txt) |
+| Fira Code | Fontsource 5.3.0 라틴 (The Fira Code Project Authors) | SIL OFL 1.1 | [licenses/fira-code-OFL.txt](licenses/fira-code-OFL.txt) |
+
+0.22.0 부터 영문 글꼴 10벌을 더 담습니다(글자별 글꼴). 모두 **고치지 않고** 그대로 담으며,
+라틴 부분만 들어 있어 한글은 Pretendard·D2Coding 이 받칩니다.
 
 ## 앱에 컴파일되어 들어간 라이브러리
 

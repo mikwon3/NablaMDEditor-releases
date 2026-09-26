@@ -42,6 +42,9 @@ A Markdown editor for academic writing. It keeps equations and cross-references 
 - **표와 그림** — 표는 격자로 입력하고 엑셀에서 붙여넣습니다. 그림은 클립보드에서 바로 붙습니다.
 - **AI 보조** — 문장 다듬기 · 표현 제안 · 개조식 · 요약하기 · 문체 바꾸기 · 수식 만들기 · 한↔영 번역. 결과는 원문과 나란히 보고 승인해야 들어갑니다.
 - **오프라인 AI** — 앱에 담긴 llama.cpp 가 이 컴퓨터에서 GGUF 모델을 돌립니다. 인터넷도 API 키도 필요 없습니다.
+- **글자별 글꼴** — 고른 글자에만 다른 글꼴을 겁니다. 논문용 영문 명조·고딕·수식 기호·고정폭 글꼴 10벌이 앱에 들어 있습니다.
+- **수식 고치기 거들기** — 고치는 동안 식 아래에 그린 결과가 보이고, 그린 수식의 글자를 누르면 원문의 그 자리로 갑니다.
+- **새 판 알림** — 하루 한 번 새 판을 확인해 권합니다. 받은 설치 파일은 서명(Ed25519)과 SHA-256 이 맞을 때만 설치합니다.
 - **원문은 Markdown 한 파일** — 앱 전용 형식이 없습니다.
 
 ## 라이선스 · License
@@ -54,7 +57,7 @@ When sharing, please point people to this repository.
 
 ## 제3자 구성요소
 
-설치 파일에는 Pandoc(GPL)·Python(PSF)·llama.cpp(MIT)·Pretendard·D2Coding(SIL OFL) 등이 함께 들어 있습니다.
+설치 파일에는 Pandoc(GPL)·Python(PSF)·llama.cpp(MIT)·Pretendard·D2Coding 과 영문 글꼴 10벌(모두 SIL OFL) 등이 함께 들어 있습니다.
 각 라이선스와 소스 위치는 [NOTICE.md](NOTICE.md) 와 [licenses/](licenses/) 에 있습니다.
 
-© 2026 경상국립대학교
+© 2026 Minho Kwon (@mikwon3 · mikwon@me.com)
